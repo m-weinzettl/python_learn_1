@@ -13,3 +13,8 @@ print(test.show_test())
 
 #hier steht mein code zum testen von markus.py
 print(markus.print_name())
+markus.test_print()
+markus.test_count()
+print(markus.test_merge())
+print(markus.test_list_comp())
+print(markus.test_name_merge())
