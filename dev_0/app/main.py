@@ -1,5 +1,6 @@
 import test
 import markus
+import steffi
 
 print("tst")
 
@@ -18,3 +19,6 @@ markus.test_count()
 print(markus.test_merge())
 print(markus.test_list_comp())
 print(markus.test_name_merge())
+
+#test steffi.py (hab code von markus integriert)
+steffi.demo_lists_noob()
